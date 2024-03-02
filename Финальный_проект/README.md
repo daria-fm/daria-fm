@@ -18,3 +18,5 @@
 - matplotlib
 - seaborn
 - sklearn
+- catboost
+- lightgbm
